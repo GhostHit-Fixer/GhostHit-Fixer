@@ -52,3 +52,19 @@ I do not just play games; I stress-test their boundaries. My core expertise lies
 ***
 *“The fix is on the house.”*
 - **GhostHit_Fixer™**
+
+- 
+---
+
+### 📸 APPENDIX: LABORATORY PROOF & VISUAL VERIFICATION
+* **Dying Light: The Beast — Nightmare NG10+ Hours:**
+  ![Dying Light: The Beast Proof](images/Dying%20light-the%20beast.%20nightmare%20NG10%2B%20hours.jpg)
+* **Lies of P — 108K Fire Combo Damage & Hours:**
+  ![Lies of P Damage Proof](images/Lies%20Of%20P%20108K%20fire%20combo%20damage.png)
+  ![Lies of P Hours Proof](images/Lies%20of%20P%20played%20hours.jpg)
+* **The Long Dark — Survival Tracks:**
+  ![The Long Dark Proof 1](images/The%20Long%20Dark1.jpg)
+  ![The Long Dark Proof 3](images/The%20Long%20Dark3.jpg)
+* **Green Hell — Open-World Days:**
+  ![Green Hell Proof](images/Green%20Hell%20played%20days.jpg)
+
