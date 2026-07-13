@@ -53,8 +53,8 @@ I do not just play games; I stress-test their boundaries. My core expertise lies
 *“The fix is on the house.”*
 - **GhostHit_Fixer™**
 
-- 
----
+
+***
 
 ### 📸 APPENDIX: LABORATORY PROOF & VISUAL VERIFICATION
 * **Dying Light: The Beast — Nightmare NG10+ Hours:**
