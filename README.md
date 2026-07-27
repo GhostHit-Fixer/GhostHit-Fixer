@@ -16,10 +16,11 @@ I do not just play games; I stress-test their boundaries. My core expertise lies
 ---
 
 ### ⚙️ HARDWARE & TEST ENVIRONMENT MATRIX
-* **Workstation (Offline Testing):** Win10 AIO 64-bit HUN (Build 19044.1566) `[Air-Gapped Lab]`
+* **Isolated Testbed (Offline Testing):** Win10 AIO 64-bit HUN (Build 19044.1566) `[Air-Gapped Lab]`
+* **Secure Comm-Rig (Network-Isolated):** Dedicated workstation for secure studio communications, live JIRA documentation, and clean web audits.
 * **Hardware Specs:** AMD FX-6300 Six-Core CPU (~3.5GHz) | NVIDIA GTX 1050 2GB | 8GB DDR3 RAM | Full HD 1080p Panel
 * **Mobile Testbed:** Apple iPhone 14 (iOS 16.3 / Telekom Network)
-* **Input Rig:** Precision Mouse (Left hand) / WASD Keyboard Layout (Right hand)
+* **Southpaw/Inverse Input Testing:** Native left-handed mouse and right-handed WASD layout operation, specialized for ergonomic key-remapping and alternative control scheme audits.
 
 ---
 
