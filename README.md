@@ -17,7 +17,7 @@ I do not just play games; I stress-test their boundaries. My core expertise lies
 
 ### ⚙️ HARDWARE & TEST ENVIRONMENT MATRIX
 * **Isolated Testbed (Offline Testing):** Win10 AIO 64-bit HUN (Build 19044.1566) `[Air-Gapped Lab]`
-* **Hardware Specs:** AMD FX-6300 Six-Core CPU (~3.5GHz) | NVIDIA GTX 1050 2GB | 8GB DDR3 RAM | Full HD 1080p Panel
+* **Hardware Specs:** AMD FX-6300 Six-Core CPU (~3.5GHz) | NVIDIA GTX 1050 2GB | 8GB DDR3 RAM | Full HD 1080p Panel. Specialized in stress-testing engine limits, framerate drops, and asset streaming bottlenecks under hardware constraints. (Successfully benchmarked and utilized for heavy regression runs on modern engines like Dying Light: The Beast at stable 30 FPS).
 * **Secure Comm-Rig (Network-Isolated):** Dedicated workstation for secure studio communications, live JIRA documentation, and clean web audits.
 * **Mobile Testbed:** Apple iPhone 14 (iOS 16.3 / Telekom Network)
 * **Southpaw/Inverse Input Testing:** Native left-handed mouse and right-handed WASD layout operation, specialized for ergonomic key-remapping and alternative control scheme audits.
