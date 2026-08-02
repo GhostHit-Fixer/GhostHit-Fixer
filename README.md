@@ -47,10 +47,9 @@ I do not just play games; I stress-test their boundaries. My core expertise lies
 * **Email:** ghosthitfixer@gmail.com
 * **LinkedIn:** [balazs-manual-qa-specialist](https://linkedin.com)
 * **Active Status:** Available for Remote Manual QA Specialist / External Bug Hunter positions.
-* *The laboratory framework is fully scale-ready and open for hardware architecture upgrades based on project-specific vendor contract requirements.*
+* *The laboratory framework is fully scale-ready and open for hardware architecture upgrades(e.g., UE5-compliant mainstream rigs) based on project-specific vendor contract requirements.*
 
 ***
-*“The fix is on the house.”*
 - **GhostHit_Fixer™**
 
 
